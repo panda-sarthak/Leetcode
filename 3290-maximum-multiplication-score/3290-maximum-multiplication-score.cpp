@@ -12,7 +12,7 @@ public:
         return t[idx][k]=max(r1,r2);
     }
     long long maxScore(vector<int>& a, vector<int>& b) {
-        for(int i=0;i<100002;i++) for(int j=0;j<5;j++) t[i][j]=LLONG_MIN+1;
+        for(int i=0;i<=b.size();i++) for(int j=0;j<5;j++) t[i][j]=LLONG_MIN+1;
         return solve(0,4,a,b.size(),b);
     }
 };
