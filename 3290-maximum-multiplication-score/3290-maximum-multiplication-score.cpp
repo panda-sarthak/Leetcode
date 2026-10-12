@@ -1,18 +1,14 @@
 typedef long long ll;
 class Solution {
 public:
-    ll t[100002][5];
-    ll solve(int idx,int k,const vector<int>& a,const int&n,const vector<int>& b){
-        if(k==0) return 0LL;
-        if(idx>=n) return LLONG_MIN;
-        if(t[idx][k]!=LLONG_MIN+1) return t[idx][k];
-        ll r1=solve(idx+1,k-1,a,n,b);
-        ll r2=solve(idx+1,k,a,n,b);
-        if(r1!=LLONG_MIN) r1+=(1LL*a[4-k]*b[idx]);
-        return t[idx][k]=max(r1,r2);
-    }
+    ll dp[5];
     long long maxScore(vector<int>& a, vector<int>& b) {
-        for(int i=0;i<=b.size();i++) for(int j=0;j<5;j++) t[i][j]=LLONG_MIN+1;
-        return solve(0,4,a,b.size(),b);
+        for(int i=0;i<5;i++) dp[i]=LLONG_MIN; dp[0]=0;
+        for(auto&x:b){
+            for(int k=4;k>0;k--){
+                if(dp[k-1]!=LLONG_MIN) dp[k]=max(dp[k],dp[k-1]+1LL*a[k-1]*x);
+            }
+        }
+        return dp[4];
     }
 };
