@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/panda-sarthak/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/panda-sarthak/Leetcode/tree/master/0001-two-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
