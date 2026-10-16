@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/panda-sarthak/Leetcode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1463-cherry-pickup-ii](https://github.com/panda-sarthak/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/panda-sarthak/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 ## Prefix Sum
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
 | [1905-count-sub-islands](https://github.com/panda-sarthak/Leetcode/tree/master/1905-count-sub-islands) |
+| [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/0968-binary-tree-cameras/) | Hard |
+| [2378-choose-edges-to-maximize-score-in-a-tree](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/2378-choose-edges-to-maximize-score-in-a-tree/) | Medium |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 ## Binary Tree
 | Problem Name | Difficulty |
