@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3290-maximum-multiplication-score](https://github.com/panda-sarthak/Leetcode/tree/master/3290-maximum-multiplication-score) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda-sarthak/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/panda-sarthak/Leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/panda-sarthak/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/panda-sarthak/Leetcode/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthak-panda/Leetcode/tree/main/C++/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
